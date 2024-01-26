@@ -1,0 +1,1 @@
+// setItem and getItem are two methods for localStorage
